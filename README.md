@@ -1,3 +1,10 @@
+## Tools Used:
+
+https://afeld.github.io/emoji-css/
+https://fontawesome.com/
+https://www.cssmatic.com/
+https://dryicons.com/free-icons/emojis'>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
